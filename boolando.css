@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.contenitore{
+    padding: 20px 10px;
+}
+
+.box{
+    position: relative;
+}
+
+img{
+    width: 30%;
+}
+
+.heart{
+    padding: 10px;
+    font-size: 30px;
+    position: absolute;
+}
+
+.sconto, .sostenibile{
+    font-weight: bolder;
+    color: white;
+    padding: 5px;
+    position: absolute;
+}
+
+.sconto{
+    background-color: red;
+}
+
+.sostenibile{
+    background-color: green;
+}
+
+.prezzo{
+    color: red;
+}
+
+.sbarrato{
+    text-decoration: line-through;
+    color: black;
+}
