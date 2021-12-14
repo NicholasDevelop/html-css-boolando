@@ -53,6 +53,7 @@ img{
 
 .mini-container{
     position: absolute;
+    bottom: 20px;
 }
 
 .sconto, .sostenibile{
