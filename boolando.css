@@ -47,6 +47,10 @@ img{
     top: 10px;
 }
 
+.heart:hover{
+    color: red;
+}
+
 .mini-container{
     position: absolute;
 }
