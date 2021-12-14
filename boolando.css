@@ -26,6 +26,18 @@ img{
     height: 100%;
 }
 
+.img-hover{
+    display: none;
+}
+
+.box-img:hover .img-top{
+    display: none;
+}
+
+.box-img:hover .img-hover{
+    display: initial;
+}
+
 .heart{
     padding: 0px 10px;
     font-size: 30px;
@@ -37,7 +49,6 @@ img{
 
 .mini-container{
     position: absolute;
-    bottom: 50px;
 }
 
 .sconto, .sostenibile{
